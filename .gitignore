@@ -1,0 +1,12 @@
+.vscode
+bin
+build
+.idea/
+cmake-build-debug/
+output.binlog
+*.csv
+run-output
+*.log
+
+generic.json
+.DS_Store
