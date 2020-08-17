@@ -4,7 +4,6 @@
 #include <mutex>
 #include <string>
 #include "NrfDfuServerTypes.h"
-#include "crc.h"
 
 namespace NativeDFU {
 class NrfDfuServer {

@@ -1,4 +1,5 @@
 #include "NrfDfuServer.h"
+#include "crc.h"
 #include <cstring>
 #include <iomanip>
 #include <iostream>
