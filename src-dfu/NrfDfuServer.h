@@ -1,10 +1,9 @@
 #pragma once
 
+#include "NrfDfuServerTypes.h"
 #include <condition_variable>
 #include <mutex>
 #include <string>
-#include "NrfDfuServerTypes.h"
-#include "crc.h"
 
 namespace NativeDFU {
 class NrfDfuServer {
